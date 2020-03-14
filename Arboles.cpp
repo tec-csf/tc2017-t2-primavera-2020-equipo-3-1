@@ -58,6 +58,6 @@ class UserMenu
 int main()
 {
     UserMenu <int> uS;
-    uS.UserInteraction();
+    //uS.UserInteraction();
     return 0;
 }
