@@ -75,7 +75,7 @@ El proyecto debe seguir la siguiente estructura de carpetas:
         
         i.	“Ctrl+ñ”
     
-    d.	Compilar el archivo "Arboles-cpp" 
+    d.	Compilar el archivo "Arboles.cpp" 
         
         i.	"bash"
         ii. "g++ Arboles.cpp -o arboles
@@ -89,7 +89,7 @@ El proyecto debe seguir la siguiente estructura de carpetas:
     g. Compilar el archivo "Grafica.py"
         
         i. Sobrear todo el código
-        ii. presionar "Ctrl+alt+F5
+        ii. presionar "Ctrl+alt+F5"
         iii. Se crearán y guardarán varias imágenes
         
     h. Verificar que se crearon las imagenes de las gráficas
