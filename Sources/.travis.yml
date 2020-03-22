@@ -1,5 +1,0 @@
-compiler: gcc
-language: cpp
-
-script:
-  - g++ Arboles.cpp -std=c++17
