@@ -1273,6 +1273,6 @@ int main()
 {
     AVLTree <double> tree;
     BTree* btree = createBTree("bTreeFile");
-    tree.completeImplementation(10, btree);
+    tree.completeImplementation(10, btree); //MODIFY THE FIRST PARAMETER FOR DIFFERENT AMOUNT OF NUMBERS TO BE MANAGED BY THE TREE
     return 0; 
 }
