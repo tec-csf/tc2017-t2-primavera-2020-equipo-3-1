@@ -7,6 +7,7 @@
 2. Miguel Ángel Hernández Maldonado - A01022398 - Campus Santa Fe
 3. Luis Emilio Alcántara Guzmán - A01027304 - Campus Santa Fe
 4. Fernando Hurtado Chaurand - A01026025 - Campus Santa Fe
+5. *[Poner aquí Nombre y Apellidos del integrante 5]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
 
 ---
 ## 1. Aspectos generales
@@ -67,7 +68,7 @@ El proyecto debe seguir la siguiente estructura de carpetas:
     
         i.      Modificar la cantidad de números que se quiere analizar
         ii.     Linea 1276 --> tree.completeImplementation(10, btree);
-        ii.     (10, btree) modificar el "número" a la cantidad deseada 10, 100, 10000, 100000, etc. Favor de no utilizar un valor mayor 75000 como población a ser utilizada en los árboles. Lo anterior debido a que el sistema de generación de números aleatorios NO REPETIDOS no tolera una cantidad más grande.
+        ii.     (10, btree) modificar el "número" a la cantidad deseada 10, 100, 10000, 100000, etc.
         
     
     c.	Abrir la terminal del Visual Studio Code
@@ -81,7 +82,7 @@ El proyecto debe seguir la siguiente estructura de carpetas:
         iii.    "./arboles"
         iiii.   Se crearán y guardarán varios archivos
     
-    e. Verficar los archivos creados que contienen los tiempos de cada implementación. Se crearán archivos .txt con las medidas de cada operación en nanosegundos. Adicionalmente, se produce otro archivo .txt en donde se puede visualizar el conjunto de números que fueron manejados por ambos árboles.
+    e. Verficar los archivos creados que contienen los tiempos de cada implementación
     
     f. Abrir el archivo "Grafica.py"
     
@@ -91,12 +92,29 @@ El proyecto debe seguir la siguiente estructura de carpetas:
         ii.     presionar "Ctrl+alt+F5"
         iii.    Se crearán y guardarán varias imágenes
         
-    h. Verificar que se crearon las imagenes de las gráficas (6 de ellas, 3 para las operaciones del árbol AVL y 3 para el B).
+    h. Verificar que se crearon las imagenes de las gráficas
         
-    i. Analizar resultados de los tiempos en las gráficas
+    i.	Analizar resultados de los tiempos en las gráficas
 
 
 
 ## 3. Referencias
 
-*[Incluya aquí las referencias a sitios de interés y cualquier otra información que haya utilizado para realizar la actividad y que le puedan ser de utilidad a otras personas que quieran usarlo como referencia]*
+Edpresso. (2020). What is an AVL?. Retrieved 22 March 2020, from https://www.educative.io/edpresso/what-is-an-avl
+
+Morris, J. (1998). Data Structures and Algorithms: AVL Trees. Retrieved 22 March 2020, from https://www.cs.auckland.ac.nz/software/AlgAnim/AVL.htm
+
+lTutorial Points. (2020). Data Structure and Algorithms - AVL Trees - Tutorialspoint. Retrieved 22 March 2020,from https://www.tutorialspoint.com/data_structures_algorithms/avl_tree_algorithm.html
+
+Old Dominion University. (2012). 2.6. Complexity. Retrieved 22 March 2020, from https://www.cs.odu.edu/~zeil/cs361/web/website/Lectures/avl/pages/avlcomplexity.html
+
+GeeksforGeeks. (2020). Complexity of different operations in Binary tree, Binary Search Tree and AVL tree -GeeksforGeeks. Retrieved 22 March 2020, from https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/
+
+Lippmann, J. (1998). 5.4.1 Definition of B-Trees. Retrieved 22 March 2020, from http://lcm.csa.iisc.ernet.in/dsa/node122.html
+
+Java Point. (2018). B Tree - javatpoint. Retrieved 22 March 2020, from https://www.javatpoint.com/b-tree
+
+Cornell.  (2012).  B-trees.  Retrieved  22  March  2020,  from  https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html
+
+C++.(2020). Reference - cplusplus. Retrieved 22 March 2020, from http://www.cplusplus.com/reference/
+
