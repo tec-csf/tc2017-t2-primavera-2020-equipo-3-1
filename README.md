@@ -37,8 +37,7 @@ El proyecto debe seguir la siguiente estructura de carpetas:
 ```
 
 ## 2. Solución
-
-
+Se presenta una solución compuesta por 3 archvios: Arboles.cpp, BtreeAux.cpp y Graphics.py. Arboles.cpp plantea el desarrollo completo de las estructuras AVL y B; para ambos árboles, se desarrollaron métodos auxiliares diversos (división de nodos, lectura y escritura en disco, obtención de factor de balanceo, rotaciones, entre otros) que ayudan a concretar las 3 oepraciones básicas de estos: Inserción, Búsqueda y Eliminación. Asimismo, se desarrolló un método único que permite la implementación a la par de ambas estructuras (completeImplementation()). El árbol AVL se programó para que trabaje con memoria RAM, mientras que el B fue desarrollado para use la memoria secundaria del dispositivo en el que sea corrido (en este caso, una Rasberry Pi). El archivo Arboles.cpp genera archivos .txt con toda la información pertinente a los tiempos transcurridos durnate cada operación realizada sobre los dos árboles. En relación con el archivo BtreeAux.cpp, este sirve como un archivo auxiliar en donde se establecieron las estructuras y métodos a ser utilizados por Arboles.cpp para implementar los árboles B. Finalmente, Graphics.py genera mapas de calor de las mediciones de tiempo generadas por cada una de las operaciones de los árboles previamente mencionados; estas son luego mostradas al usuario como archivos PNG para una mejor visualización. Es importante recalcar que el archivo Arboles.cpp debe ser EJECUTADO ANTES que el Graphics.py para que las gráficas puedan ser generadas con información adecuada y actualizada. A continuación, se presentan instrucciones más claras de como utilizar la solución propuesta en este apartado.
 
 ### 2.1 Pasos a seguir para utilizar la aplicación
 
