@@ -7,7 +7,6 @@
 2. Miguel Ángel Hernández Maldonado - A01022398 - Campus Santa Fe
 3. Luis Emilio Alcántara Guzmán - A01027304 - Campus Santa Fe
 4. Fernando Hurtado Chaurand - A01026025 - Campus Santa Fe
-5. *[Poner aquí Nombre y Apellidos del integrante 5]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
 
 ---
 ## 1. Aspectos generales
