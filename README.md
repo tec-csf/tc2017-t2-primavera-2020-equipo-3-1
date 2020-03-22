@@ -48,17 +48,17 @@ El proyecto debe seguir la siguiente estructura de carpetas:
    
     a.	Pegar la liga en el navegador
    
-        i.  https://github.com/tec-csf/tc2017-t2-primavera-2020-equipo-3-1.git
+        i.      https://github.com/tec-csf/tc2017-t2-primavera-2020-equipo-3-1.git
    
     b.	Dar Click en el botón verde “Clone or Download”
         
-        i.  Seleccionar “Open in Desktop”
-        ii. Se descagara un archivo .ZIP
+        i.      Seleccionar “Open in Desktop”
+        ii.     Se descagará un archivo .ZIP
         iii.    “tc2017-t2-primavera-2020-equipo-3-1-master”
    
     c.	Descomprimir el archivo .zip
         
-        i.	Se creara la carpeta “tc2017-t2-primavera-2020-equipo-3-1-master”
+        i.	    Se creara la carpeta “tc2017-t2-primavera-2020-equipo-3-1-master”
         
 2.	Abrir el compilador Visual Studio Code en su Servidor
 
@@ -66,19 +66,19 @@ El proyecto debe seguir la siguiente estructura de carpetas:
     
     b.	Abrir el archivo “Arboles.cpp”
     
-        i.  Modificar la cantidad de números que se quiere analizar
-        ii. Linea 1276 --> tree.completeImplementation(10, btree);
-        ii. (10, btree) modificar el "número" a la cantidad deseada
+        i.      Modificar la cantidad de números que se quiere analizar
+        ii.     Linea 1276 --> tree.completeImplementation(10, btree);
+        ii.     (10, btree) modificar el "número" a la cantidad deseada 10, 100, 10000, 100000, etc.
         
     
     c.	Abrir la terminal del Visual Studio Code
         
-        i.	“Ctrl+ñ”
+        i.	    “Ctrl+ñ”
     
     d.	Compilar el archivo "Arboles.cpp" 
         
-        i.  "bash"
-        ii. "g++ Arboles.cpp -o arboles
+        i.      "bash"
+        ii.     "g++ Arboles.cpp -o arboles
         iii.    "./arboles"
         iiii.   Se crearán y guardarán varios archivos
     
@@ -88,8 +88,8 @@ El proyecto debe seguir la siguiente estructura de carpetas:
     
     g. Compilar el archivo "Grafica.py"
         
-        i.  Sobrear todo el código
-        ii. presionar "Ctrl+alt+F5"
+        i.      Sombrear todo el código
+        ii.     presionar "Ctrl+alt+F5"
         iii.    Se crearán y guardarán varias imágenes
         
     h. Verificar que se crearon las imagenes de las gráficas
