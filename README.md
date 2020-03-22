@@ -68,7 +68,7 @@ El proyecto debe seguir la siguiente estructura de carpetas:
     
         i.      Modificar la cantidad de números que se quiere analizar
         ii.     Linea 1276 --> tree.completeImplementation(10, btree);
-        ii.     (10, btree) modificar el "número" a la cantidad deseada 10, 100, 10000, 100000, etc.
+        ii.     (10, btree) modificar el "número" a la cantidad deseada 10, 100, 10000, 100000, etc. Favor de no utilizar un valor mayor 75000 como población a ser utilizada en los árboles. Lo anterior debido a que el sistema de generación de números aleatorios NO REPETIDOS no tolera una cantidad más grande.
         
     
     c.	Abrir la terminal del Visual Studio Code
@@ -82,7 +82,7 @@ El proyecto debe seguir la siguiente estructura de carpetas:
         iii.    "./arboles"
         iiii.   Se crearán y guardarán varios archivos
     
-    e. Verficar los archivos creados que contienen los tiempos de cada implementación
+    e. Verficar los archivos creados que contienen los tiempos de cada implementación. Se crearán archivos .txt con las medidas de cada operación en nanosegundos. Adicionalmente, se produce otro archivo .txt en donde se puede visualizar el conjunto de números que fueron manejados por ambos árboles.
     
     f. Abrir el archivo "Grafica.py"
     
@@ -92,9 +92,9 @@ El proyecto debe seguir la siguiente estructura de carpetas:
         ii.     presionar "Ctrl+alt+F5"
         iii.    Se crearán y guardarán varias imágenes
         
-    h. Verificar que se crearon las imagenes de las gráficas
+    h. Verificar que se crearon las imagenes de las gráficas (6 de ellas, 3 para las operaciones del árbol AVL y 3 para el B).
         
-    i.	Analizar resultados de los tiempos en las gráficas
+    i. Analizar resultados de los tiempos en las gráficas
 
 
 
